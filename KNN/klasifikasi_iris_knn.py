@@ -15,7 +15,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn
 from sklearn import datasets
-
 import seaborn as sns
 
 # load dataset
@@ -32,6 +31,7 @@ sns.pairplot(df, hue='Target', palette=("tab10"))
 
 # splitting dataset into train-set and test-set
 from sklearn.model_selection import train_test_split
+
 x = iris.data # feature
 y = iris.target # label (3 kategori: 0, 1, 2)
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
