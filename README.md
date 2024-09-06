@@ -5,4 +5,4 @@ Algoritma yang ada:
 1. K-Nearest Neighbors
 2. Decision Tree
 
-Version used: sklearn 1.5.1
+used version: sklearn 1.5.1
