@@ -1,5 +1,8 @@
 # Klasifikasi_Bunga-Iris
-Pembuatan model supervised learning untuk klasifikasi bunga iris dengan berbagai macam algoritma. Proyek dibuat menggunakan google colab, lalu diekspor sebagai .ipnyb dan .py.
+Pembuatan model machine learing dengan alogritma supervised learning untuk klasifikasi bunga iris. Proyek dibuat menggunakan google colab, lalu diekspor sebagai .ipnyb dan .py.
 
 Algoritma yang ada:
 1. K-Nearest Neighbors
+2. Decision Tree
+
+Version used: sklearn 1.5.1
