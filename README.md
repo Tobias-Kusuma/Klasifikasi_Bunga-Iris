@@ -4,5 +4,6 @@ Pembuatan model machine learing dengan alogritma supervised learning untuk klasi
 Algoritma yang ada:
 1. K-Nearest Neighbors
 2. Decision Tree
+3. Random Forest
 
 used version: sklearn 1.5.1
